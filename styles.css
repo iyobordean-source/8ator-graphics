@@ -901,6 +901,7 @@ img { display: block; width: 100%; }
   font-size: 15px;
   color: var(--white);
   transition: border-color .3s var(--ease), background .3s var(--ease);
+  -webkit-appearance: none;
 }
 
 .field input::placeholder,
